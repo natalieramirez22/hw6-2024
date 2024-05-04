@@ -6,3 +6,6 @@ Modifies video speed options, sound, and uses play/pause/skip buttons.
 # What I Learned
 * Javascript video elements
 * Javascript event listeners
+
+## Accessing the Website
+Click on the Github page in Settings and add */video.html* to the url.
